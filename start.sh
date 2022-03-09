@@ -10,6 +10,10 @@
                         #   version: 64bit                                                               #
                         #                                       by: Bates <https://github.com/batestin1> #
                         #********************************************************************************#
+rm -r folders
+mkdir folders
+rm -r results
+mkdir results
 
 echo "Welcome to PyFindeFile"
 sleep 2
